@@ -22,9 +22,11 @@ FYFORM Tech Stack
 - ActiveStorage + AWS S3 for PDF uploads
 - FDFMerge for PDF form filling
 - Bootstrap 4 for front end
+
 ## Development Enviroment
 - Vagrant
 - Docker on Ubuntu 18.04
+
 ### Production
 - Dokku on Digital Ocean
 
