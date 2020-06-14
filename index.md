@@ -10,8 +10,6 @@ Ruby on Rails was chosen as the framework for ability to scaffold/build models a
 
 ### fyform.com
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
 FYFORM Tech Stack
 
