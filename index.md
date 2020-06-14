@@ -1,4 +1,4 @@
-## Projects
+## Fyform
 
 Fyfrom was created to optimize the quote submission process for insurance agencies. There is still a lot of manual work in the insurance industry.  Being tired of manual work and having to work on a desktop/laptop to get a policy submitted was inefficient.  I am no longer bound to my laptop or desktop to submit a quote for my client.  
 
@@ -13,24 +13,24 @@ Ruby on Rails was chosen as the framework for ability to scaffold/build models a
 ```markdown
 FYFORM Tech Stack
 
-# Header 1
--Ruby On Rails 5.2
--Postgres database
--Devise for authentication
--Apartment for multi-tenancy
--Sidekiq for background jobs
--ActiveStorage + AWS S3 for PDF uploads
--FDFMerge for PDF form filling
--Bootstrap 4 for front end
+# Technology
+- Ruby On Rails 5.2
+- Postgres database
+- Devise for authentication
+- Apartment for multi-tenancy
+- Sidekiq for background jobs
+- ActiveStorage + AWS S3 for PDF uploads
+- FDFMerge for PDF form filling
+- Bootstrap 4 for front end
 ## Development Enviroment
--Vagrant
--Docker on Ubuntu 18.04
+- Vagrant
+- Docker on Ubuntu 18.04
 ### Production
--Dokku on Digital Ocean
+- Dokku on Digital Ocean
 
 
 **Contact** 
--Lyman Chao
--415.840.5699
--lymanchao1@gmail.com
--San Francisco, CA
+- Lyman Chao
+- 415.840.5699
+- lymanchao1@gmail.com
+- San Francisco, CA
